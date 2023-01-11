@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm ehmedoff</h1>
+<h1 align="center">Hi 👋, I'm zhmdff</h1>
 <h3 align="center">A web developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ehmedoff_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehmedoff_z" height="30" width="40" /></a>
-<a href="https://instagram.com/ehmedoff__m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehmedoff__m" height="30" width="40" /></a>
+<a href="https://twitter.com/zhmdff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehmedoff_z" height="30" width="40" /></a>
+<a href="https://instagram.com/zhmdff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehmedoff__m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
